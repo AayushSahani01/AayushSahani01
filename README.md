@@ -1,4 +1,4 @@
-# <h1 align="left">Hello 👋, I'm Aayush Sahani. </h1>
+# <h1 align="center">Hello 👋, I'm Aayush Sahani. </h1>
 
 <!-- <img src="https://i.imgur.com/ayushSahani.gif" alt="Welcome!" width="300"/> -->
 
