@@ -45,8 +45,6 @@
 <hr width="75%" />
 
  
- ![image](https://github.com/user-attachments/assets/6a413a97-a303-48f2-ae32-8255139c2a3c)
->
   <table>
   <tr>
 
