@@ -16,11 +16,11 @@
 <br/>
 
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AayushSahani01&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AayushSahani01&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak " />
 </div>
 
 <div> 
-    <img align="right" src="https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47z5m20vzhay52hnxgmx06tkmgpt6s2lbku1q4wp3n&rid=giphy.gif" width="280" height="auto" />
+  <img align="right" src="https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47z5m20vzhay52hnxgmx06tkmgpt6s2lbku1q4wp3n&rid=giphy.gif" width="280" height="auto" />
 <br>
 </div>
 
@@ -45,12 +45,12 @@
 <hr width="75%" />
 
  
-# <img src="https://github-readme-activity-graph.vercel.app/graph?username=AayushSahani01&theme=github-compact" alt="GitHub Activity Graph" />
-<br>
+ ![image](https://github.com/user-attachments/assets/6a413a97-a303-48f2-ae32-8255139c2a3c)
+>
   <table>
   <tr>
 
-# <td><img src="https://github-readme-stats.vercel.app/api?username=AayushSahani01&theme=dracula" alt="GitHub stats" /> 
+ <td><img src="https://github-readme-stats.vercel.app/api?username=AayushSahani01&theme=dracula" alt="GitHub stats" /> 
    
 <td><img src="https://codestats-readme.avior.me/api/top-langs/?username=AayushSahani01&theme=chartreuse-dark" alt="Languages" /></td> 
   </tr>
