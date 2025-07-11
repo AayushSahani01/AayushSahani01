@@ -1,10 +1,11 @@
 <div align ="center">
  
- #  ✨</> Hello, I'm Aayush Sahani👩🏻‍💻👋
+ #  ✨</> Hello,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="36px" height="30px"> I'm Aayush Sahani👩🏻‍💻
+ 
  
 </div>
 
-➤I'm a Full-Stack Developer🚀 with a passion for DevOps and Open Source. I always aim for the best code quality and smooth coding. I'm excited about using new technologies in my projects🚀🚀. 
+ᯓ★I'm a Full-Stack Developer with a passion for DevOps and Open Source. I always aim for the best code quality and smooth coding❤️. I'm excited about using new technologies in my projects🚀.ᯓ
 
 
 ## 🌱 Current Learning Goals💻  
@@ -76,8 +77,8 @@
 </table>
 
 
-## 👀 Profile Views➤ 🌐 
-![Profile Views](https://komarev.com/ghpvc/?username=AayushSahani01&style=flat&color=blue)
+## 🌐👀 Profile Views💫
+![Profile Views](https://komarev.com/ghpvc/?username=AayushSahani01&style=flat&color=blue) 
 
 ## 🔗 Links ✨ 
 <a href="https://x.com/Aa_yu_sh_2526_?s=09" target="__blank"><img src="https://img.shields.io/twitter/follow/Aayush_Sahani?style=social" alt="Twitter"></a>
@@ -85,6 +86,6 @@
 </a>
   
 
-## 📫 Get in touch ✨✨
+## 📫 Get in touch✨❤️💫
 - **Email:** [ayush.me@gmail.com](mailto:ayushsahani.me@gmail.com)
  
