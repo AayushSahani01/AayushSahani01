@@ -71,7 +71,7 @@
 <table>
   <tr>
     <td>
-    <img src="https://github-readme-stats.vercel.app/api?username=AayushSahani01&count_private=true&show_icons=true&theme=radical&hide=issues,contribs" alt="AayushSahani01" /></td>
+    <img src="https://github-readme-stats.vercel.app/api?username=AayushSahani01&count_private=true&show_icons=true&theme=radical&show=issues,show=contribs" alt="AayushSahani01" /></td>
     <td><img src="https://github-readme-streak-stats.herokuapp.com?user=AayushSahani01&theme=radical&hide_border=true" alt="AayushSahani01" /></td>
   </tr>
 </table>
