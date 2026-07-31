@@ -12,6 +12,7 @@
 
 ---
 
+
 ## 👋 About Me
 
 I'm a **passionate Full-Stack Developer** dedicated to crafting high-quality, scalable web applications. With expertise in modern web technologies and DevOps practices, I transform ideas into robust digital solutions. I'm committed to clean code, continuous learning, and open-source contributions.
@@ -21,6 +22,8 @@ I'm a **passionate Full-Stack Developer** dedicated to crafting high-quality, sc
 ```
 
 ---
+
+<!--
 
 ## 🎯 What I Do
 
@@ -158,7 +161,7 @@ A real-time currency conversion application using live exchange rate APIs.
 
 [View Repository](https://github.com/AayushSahani01/Currency-Converter)
 
---- -->
+--- 
 
 ## 🌟 Skills Highlight
 
@@ -264,7 +267,8 @@ I believe in:
 - **User-Centric Design** - Every feature should enhance user experience
 - **Scalability First** - Building with growth and scale in mind from the start
 
----
+---  
+--->
 
 <div align="center">
 
@@ -273,6 +277,7 @@ I believe in:
   **[View My Portfolio](https://portfolio-aayush01.onrender.com/)** • **[Check Out My Repositories](https://github.com/AayushSahani01?tab=repositories)**
   
   ---
+
   
   *Last Updated: December 2025*
   
